@@ -3,6 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="![image](https://github.com/nicoleviarengo/React.js/assets/96841120/54e1fd8b-b3ed-4941-81d7-08d3b5751bb3)" alt="Logo" width="100" height="100">
+    <img src="![image](![image](https://github.com/nicoleviarengo/React.js/assets/96841120/14b43b03-665e-49a3-9545-4ee6c1a0fab5)
+)" alt="Logo" width="100" height="100">
   </a>
 Proyectos usando React.js
